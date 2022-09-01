@@ -35,17 +35,17 @@ body {
     left: -23.6vmin;
     border: 1vmin solid $logo-color;
     transform: skewY(30deg);
-    border-radius: 0.6vmin 0 0 0;
+    border-radius: 0.7vmin 0 0 0;
 
     &::before {
       width: 4.9vmin;
       height: 21vmin;
       background: $bg-color;
-      top: -4.4vmin;
+      top: -4.35vmin;
       left: 4.9vmin;
       border: 1vmin solid $logo-color;
       transform: skewY(-49deg);
-      border-radius: 0 0.6vmin 0 5vmin;
+      border-radius: 0 0.7vmin 0 5vmin;
     }
 
     &::after {
